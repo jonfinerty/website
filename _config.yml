@@ -30,6 +30,8 @@ url: "https://jonathanfinerty.com" # the base hostname & protocol for your site,
 theme: minima
 plugins:
   - jekyll-feed
+  # Custom
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default.

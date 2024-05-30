@@ -15,8 +15,8 @@ This isn't the first time I've thought about it. I wrote a [version for software
 
 So, in order to keep my momentum and stave off boredeom, I thought why not go further and try to complete the original competencies. So here we go, a checklist.
 
-- [x] Change a diaper
-- [ ] Plan an invasion
+:heavy_check_mark: Change a diaper
+:white_large_square: Plan an invasion
 - [ ] Butcher a hog
 - [ ] Conn a ship
 - [ ] Design a building
@@ -36,3 +36,7 @@ So, in order to keep my momentum and stave off boredeom, I thought why not go fu
 - [ ] Cook a tasty meal
 - [ ] Fight efficiently
 - [ ] Die gallantly
+
+## What's next?
+
+I have a 4-day sailing course booked that promises *"once completed you will have the basic knowledge to hire or sail your own boat without an instructor onboard"*. Which should tick off 'Conn a ship'. Some will prove more tricky than others, comfort the dying and dying gallantly both will (hopefully!) require some nuanced intrepretation. 
