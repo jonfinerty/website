@@ -15,24 +15,24 @@ This isn't the first time I've thought about it. I wrote a [version for software
 
 So, in order to keep my momentum and stave off boredeom, I thought why not go further and try to complete the original competencies. So here we go, a checklist.
 
-[x] Change a diaper
-[] Plan an invasion
-[] Butcher a hog
-[] Conn a ship
-[] Design a building
-[x] Write a sonnet
-[] Balance accounts
-[] Build a wall
-[] Set a bone
-[] Comfort the dying
-[x] Take orders
-[x] Give orders
-[] Cooperate
-[] Act alone
-[] Solve equations
-[] Analyse a new problem
-[] Pitch manure
-[x] Program a computer
-[] Cook a tasty meal
-[] Fight efficiently
-[] Die gallantly
+- [x] Change a diaper
+- [ ] Plan an invasion
+- [ ] Butcher a hog
+- [ ] Conn a ship
+- [ ] Design a building
+- [x] Write a sonnet
+- [ ] Balance accounts
+- [ ] Build a wall
+- [ ] Set a bone
+- [ ] Comfort the dying
+- [x] Take orders
+- [x] Give orders
+- [ ] Cooperate
+- [ ] Act alone
+- [ ] Solve equations
+- [ ] Analyse a new problem
+- [ ] Pitch manure
+- [x] Program a computer
+- [ ] Cook a tasty meal
+- [ ] Fight efficiently
+- [ ] Die gallantly
