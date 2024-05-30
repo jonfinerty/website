@@ -17,25 +17,25 @@ So, in order to keep my momentum and stave off boredeom, I thought why not go fu
 
 :heavy_check_mark: Change a diaper
 :white_large_square: Plan an invasion
-- [ ] Butcher a hog
-- [ ] Conn a ship
-- [ ] Design a building
-- [x] Write a sonnet
-- [ ] Balance accounts
-- [ ] Build a wall
-- [ ] Set a bone
-- [ ] Comfort the dying
-- [x] Take orders
-- [x] Give orders
-- [ ] Cooperate
-- [ ] Act alone
-- [ ] Solve equations
-- [ ] Analyse a new problem
-- [ ] Pitch manure
-- [x] Program a computer
-- [ ] Cook a tasty meal
-- [ ] Fight efficiently
-- [ ] Die gallantly
+:white_large_square: Butcher a hog
+:white_large_square: Conn a ship
+:white_large_square: Design a building
+:heavy_check_mark: Write a sonnet
+:white_large_square: Balance accounts
+:white_large_square: Build a wall
+:white_large_square: Set a bone
+:white_large_square: Comfort the dying
+:heavy_check_mark: Take orders
+:heavy_check_mark: Give orders
+:white_large_square: Cooperate
+:white_large_square: Act alone
+:white_large_square: Solve equations
+:white_large_square: Analyse a new problem
+:white_large_square: Pitch manure
+:heavy_check_mark: Program a computer
+:white_large_square: Cook a tasty meal
+:white_large_square: Fight efficiently
+:white_large_square: Die gallantly
 
 ## What's next?
 
