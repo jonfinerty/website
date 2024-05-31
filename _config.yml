@@ -23,15 +23,16 @@ email: jonathanfinerty@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The personal site of Jon Finerty. I write here. I work for Isometric. 
   Find me on LinkedIn if you want my credentials, or email me if you want to reach out.
-baseurl: "/website" # the subpath of your site, e.g. /blog
 url: "https://jonathanfinerty.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-  # Custom
+  # Emoji in the style of :smile:
   - jemoji
+  # Favicon
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.

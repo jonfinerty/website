@@ -26,7 +26,7 @@ So, in order to keep my momentum and stave off boredom, I thought why not go fur
 :white_large_square: Build a wall  
 :white_large_square: Set a bone  
 :white_large_square: Comfort the dying  
-:heavy_check_mark: Take orders - *I've been an employee and [written about getting feedback](https://medium.com/@jonfinerty/getting-feedback-is-a-skill-74a39b8f09b7)*  
+:heavy_check_mark: Take orders - *I've been an employee and [written about getting feedback](/getting-feedback-is-a-skill)*  
 :heavy_check_mark: Give orders - *I've been a manager*  
 :white_large_square: Cooperate  
 :white_large_square: Act alone  
