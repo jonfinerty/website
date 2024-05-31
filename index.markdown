@@ -23,9 +23,8 @@ Absorb what is useful, discard what is not.
 ### Notes[^footnotes] 
 
 [^ghost]: I have a couple of rules for myself on the internet:  
-    * Only interact positively, no good comes from public negativity. 
-    * Everyone wants to addict you to their feed, avoid scrolling.  
-
+    - Only interact positively, no good comes from public negativity. 
+    - Everyone wants to addict you to their feed, avoid scrolling.  
 
     Better to put stuff out, interact mindfully and get on with life.
 

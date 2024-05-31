@@ -19,7 +19,7 @@ So, in order to keep my momentum and stave off boredom, I thought why not go fur
 :heavy_check_mark: Change a diaper - *I have two children*  
 :white_large_square: Plan an invasion  
 :white_large_square: Butcher a hog  
-:construction: Conn a ship - *Sailing course booked* 
+:construction: Conn a ship - *Sailing course booked*  
 :white_large_square: Design a building  
 :heavy_check_mark: Write a sonnet - *I've made a website for writing poetry: [Ode](https://jonathanfinerty.com/ode)*  
 :white_large_square: Balance accounts  
