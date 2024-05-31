@@ -12,14 +12,14 @@ A short piece of writing that crystallises this outlook and one I have become at
 
 > A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.
 
-This isn't the first time I've thought about it[^trope]. I wrote a [version for software engineers](https://medium.com/@jonfinerty/the-competent-developer-a03e23a9cfc8), applying my polymathematic belief to my job.
+This isn't the first time I've thought about it[^trope]. I wrote a [version for software engineers](/the-competent-developer), applying my polymathematic belief to my job.
 
 So, in order to keep my momentum and stave off boredom, I thought why not go further and try to complete the original competencies. So here we go, a checklist:
 
 :heavy_check_mark: Change a diaper - *I have two children*  
 :white_large_square: Plan an invasion  
 :white_large_square: Butcher a hog  
-:white_large_square: Conn a ship  
+:construction: Conn a ship  
 :white_large_square: Design a building  
 :heavy_check_mark: Write a sonnet - *I've made a website for writing poetry: [Ode](https://jonathanfinerty.com/ode)*  
 :white_large_square: Balance accounts  
