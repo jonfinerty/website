@@ -8,7 +8,7 @@ Hi, I'm Jon and this is my website.
 
 It's intended audience is me. 
 
-I think that writing things down can help solidify and export thoughts from your brain and stop them banging around in your head. I intend to post-and-ghost[^ghost]. My writing will contradict itself and the believes will clash, but I think that's ok. I'd rather put stuff down in ink and be wrong, then never write. 
+I think that writing things down can help solidify and export thoughts from your brain and stop them banging around in your head. I intend to post-and-ghost[^ghost]. My writing will contradict itself and the beliefs will clash, but I think that's ok. I'd rather put stuff down in ink and be wrong, then never write. 
 
 Absorb what is useful, discard what is not.
 
