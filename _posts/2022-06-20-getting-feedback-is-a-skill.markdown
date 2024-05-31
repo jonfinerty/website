@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Getting Feedback is a Skill"
+date:   2022-06-20 16:54:35 +0100
+tagline: How to get people to give you feedback
+---
+
 As an Engineering Manager I’ve seen many Engineers stuck in mid-career limbo. The key to avoiding getting stuck is feedback. People think they’re getting feedback, but often it’s not the feedback they need to hear. Why is this?
 
 Giving feedback to a colleague is a corporate [prisoner’s dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma). The prisoner's dilemma is a bit of game theory that models the fact that two people acting selfishly is sub-optimal, but there is risk in being the only one who tries to cooperate. 
