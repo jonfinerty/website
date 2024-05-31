@@ -15,7 +15,7 @@ Critical feedback (the most valuable kind!) at work follows similar patterns, be
 
 This might not happen too often in reality. You might feel strongly that you take feedback well and have low ego. But in reality just the imagined fear of feedback being taken the wrong way has a strong chilling effect on the quantity and quality of feedback you’ll receive.
 
-![Image-center](images/feedback_dilemma.png){: .align-center}
+![image](images/feedback_dilemma.png)
 
 Above is a subconscious risk-adverse model of feedback. The feedback giver has the choice between giving soft, easy feedback or tough critical feedback. They are risking the working relationship based on this choice combined with the receiver's unknown reaction.
 
